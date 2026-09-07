@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility artifact, please cite this artifact and the associated manuscript."
+title: "Reproducibility Artifact for Asymmetric Cryptographic Interfaces for Noise-Degenerate SPDE Sensors"
+type: software
+version: "1.0.0"
+date-released: "2026-09-06"
+authors:
+  - family-names: "Abdulwahid"
+    given-names: "Adnan H."
+  - family-names: "Znidi"
+    given-names: "Faycal"
+  - family-names: "Neupane"
+    given-names: "Ram C."
+  - family-names: "Elamami"
+    given-names: "Elgaddafi"
+keywords:
+  - FPGA
+  - reproducibility
+  - stochastic partial differential equations
+  - interface discretization
+  - privacy amplification
+  - information-theoretic security

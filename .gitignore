@@ -1,0 +1,19 @@
+# Local Python artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local LaTeX build products
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+
+# Bulky raw evidence is published in the full Zenodo artifact, not normal Git history
+archival_evidence/
+
+# OS/editor
+.DS_Store
+Thumbs.db

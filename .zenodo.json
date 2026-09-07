@@ -1,0 +1,30 @@
+{
+  "title": "Reproducibility Artifact for Asymmetric Cryptographic Interfaces for Noise-Degenerate SPDE Sensors",
+  "upload_type": "software",
+  "description": "Corrected public reproducibility artifact for the associated manuscript. Includes software/reference models, RTL/FPGA work packages, consolidated data, figures, LaTeX-ready outputs, correction provenance, and\u2014within the complete archive\u2014raw Vivado/XSim evidence. Physical sensor entropy characterization (WP07/WP08) was not performed.",
+  "creators": [
+    {
+      "name": "Abdulwahid, Adnan H."
+    },
+    {
+      "name": "Znidi, Faycal"
+    },
+    {
+      "name": "Neupane, Ram C."
+    },
+    {
+      "name": "Elamami, Elgaddafi"
+    }
+  ],
+  "keywords": [
+    "FPGA",
+    "reproducibility",
+    "SPDE",
+    "interface discretization",
+    "privacy amplification",
+    "information-theoretic security"
+  ],
+  "version": "1.0.0",
+  "publication_date": "2026-09-06",
+  "notes": "Q16.16 precision correction documented in docs/CORRECTION_NOTICE.md. No software/data license was inferred from the source archive; authors should select the intended public license during deposition."
+}

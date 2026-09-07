@@ -1,0 +1,15 @@
+{
+  "release_title": "Reproducibility Artifact for Asymmetric Cryptographic Interfaces for Noise-Degenerate SPDE Sensors",
+  "version": "1.0.0",
+  "date": "2026-09-06",
+  "original_wp12_sha256": "21cf97ae3ef8db104c9ab18ec37e0984fca506a72d75f241bcf5aff1fe66716b",
+  "correction_overlay_sha256": "a657b1814752be37f8fa898667151ee56fdb498a4c46e549f00c7ed7fce373ca",
+  "q16_16_mean_relative_l2_corrected": 0.009050407667768426,
+  "physical_sensor_wp07_wp08": "not performed",
+  "distribution": {
+    "github": "excludes archival_evidence",
+    "zenodo_full": "includes archival_evidence"
+  },
+  "zenodo_full_archive_filename": "WP12_ZENODO_FULL_v1.0_CORRECTED.zip",
+  "zenodo_full_archive_sha256": "7c0f17076f19c67dca4407c82ac74665f16acd370388d7d9f7ed4e7b2aeb3aa6"
+}
